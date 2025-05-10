@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Artem!  
 
 💻 Computer Science student at Sheridan College<br/>
-🚀 Aspiring Developer | Game Creator at Mad Pirate Studios<br/>
+🚀 Aspiring Developer
 ⛏️ Minecraft Plugin Developer<br>
 🎮 Passionate about game development, scripting, and UI/UX design<br/>
 
